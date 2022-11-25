@@ -1,0 +1,19 @@
+{ 
+	"jugadores": 
+    [
+		{"nombre":"Courtois","pais":"Belgica","nacimiento":"11/05/1992","altura":2.00,"peso":96,"posicion":"portero","imagen":"https://assets.laliga.com/squad/2022/t186/p60772/512x512/p60772_t186_2022_0_003_000.png"},
+        {"nombre":"Lunin","pais":"Ucrania","nacimiento":"11/02/1999","altura":1.91,"peso":80,"posicion":"portero","imagen":"https://assets.laliga.com/squad/2022/t186/p224965/512x512/p224965_t186_2022_0_003_000.png"},
+        {"nombre":"Carvajal","pais":"España","nacimiento":"11/01/1992","altura":1.73,"peso":73,"posicion":"defensa","imagen":"https://assets.laliga.com/squad/2022/t186/p88483/512x512/p88483_t186_2022_0_003_000.png"},
+        {"nombre":"Rudiger","pais":"Alemania","nacimiento":"03/03/1993","altura":1.90,"peso":85,"posicion":"defensa","imagen":"https://assets.laliga.com/squad/2022/t186/p102380/512x512/p102380_t186_2022_0_003_000.png"},
+        {"nombre":"Alaba","pais":"Austria","nacimiento":"24/06/1992","altura":1.80,"peso":78,"posicion":"defensa","imagen":"https://assets.laliga.com/squad/2022/t186/p50188/512x512/p50188_t186_2022_0_003_000.png"},
+        {"nombre":"Militao","pais":"Brasil","nacimiento":"18/01/1998","altura":1.86,"peso":78,"posicion":"defensa","imagen":"https://assets.laliga.com/squad/2022/t186/p218449/512x512/p218449_t186_2022_0_003_000.png"},
+        {"nombre":"Camavinga","pais":"Francia","nacimiento":"10/11/2002","altura":1.82,"peso":76,"posicion":"mediocentro","imagen":"https://assets.laliga.com/squad/2022/t186/p475561/512x512/p475561_t186_2022_0_003_000.png"},
+        {"nombre":"Modric","pais":"Croacia","nacimiento":"09/09/1985","altura":1.72,"peso":66,"posicion":"mediocentro","imagen":"https://assets.laliga.com/squad/2022/t186/p37055/512x512/p37055_t186_2022_0_003_000.png"},
+        {"nombre":"Kroos","pais":"Alemania","nacimiento":"04/01/1990","altura":1.83,"peso":76,"posicion":"mediocentro","imagen":"https://assets.laliga.com/squad/2022/t186/p44989/512x512/p44989_t186_2022_0_003_000.png"},
+        {"nombre":"Valverde","pais":"Uruguay","nacimiento":"22/07/1998","altura":1.82,"peso":78,"posicion":"mediocentro","imagen":"https://assets.laliga.com/squad/2022/t186/p223255/512x512/p223255_t186_2022_0_003_000.png"},
+        {"nombre":"Benzema","pais":"Francia","nacimiento":"19/12/1987","altura":1.85,"peso":81,"posicion":"delantero","imagen":"https://assets.laliga.com/squad/2022/t186/p19927/512x512/p19927_t186_2022_0_003_000.png"},
+        {"nombre":"Vinicius","pais":"Brasil","nacimiento":"12/07/2000","altura":1.76,"peso":73,"posicion":"delantero","imagen":"https://assets.laliga.com/squad/2022/t186/p246333/512x512/p246333_t186_2022_0_003_000.png"},
+        {"nombre":"Rodrygo","pais":"Brasil","nacimiento":"09/01/2001","altura":1.74,"peso":64,"posicion":"delantero","imagen":"https://assets.laliga.com/squad/2022/t186/p440077/512x512/p440077_t186_2022_0_003_000.png"},
+        {"nombre":"Hazard","pais":"Belgica","nacimiento":"07/01/1991","altura":1.75,"peso":74,"posicion":"delantero","imagen":"https://assets.laliga.com/squad/2022/t186/p42786/512x512/p42786_t186_2022_0_003_000.png"}
+	]
+}
